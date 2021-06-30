@@ -2,8 +2,8 @@
 
 ---
 
-**Weldome to my repository for various fintech assets and function practice. Feel free to have a look around and see what I have accomplished!**
+**Weldome to my repository for various FinTech assets and functions practice. Feel free to have a look around and see what I have accomplished!**
 
-'''python
+```python
 print("Nice to meet you!")
-'''
+```
