@@ -1,5 +1,7 @@
 # *Practice_Repository!*
 
+![markdown-image](markdown-image.png)
+
 >"...to boldly go where no one has gone before."
 
 ### Directory
