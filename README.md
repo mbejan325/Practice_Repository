@@ -4,11 +4,11 @@
 
 ### Directory
 
-[code] (code)
+[code](code)
 
-[data] (data)
+[data](data)
 
-[references] (references)
+[references](references)
 
 ---
 
