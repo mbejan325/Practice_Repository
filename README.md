@@ -1,6 +1,6 @@
 # *Practice_Repository!*
 
-![markdown-image](markdown-image.png)
+![markdown-image](fintech.jpg)
 
 >"...to boldly go where no one has gone before."
 
